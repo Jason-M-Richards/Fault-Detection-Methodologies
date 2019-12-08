@@ -30,7 +30,7 @@ Here are the results:
 This segment provided a much greater challenge. RUL is predicting the life of a machine based on the data from previous cycles. The data collected for this was from an actual competition from 2008 from the PHM Society. Again, check out the Github to see the data and the full notebook.
 I took a much more complex route for this model:
 
-img[rul](rul.png)
+![rul](rul.png)
 
 ### Remaining Useful Life Model
 Here are the not so obvious steps:
